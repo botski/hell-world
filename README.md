@@ -1,3 +1,3 @@
 # hell-world
 
-Latex rilez
+Latexi rilez
